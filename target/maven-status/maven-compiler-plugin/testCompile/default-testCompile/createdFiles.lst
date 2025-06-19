@@ -1,0 +1,8 @@
+ContactModule\CreateContactWithOrgTest.class
+ContactModule\CreateContactTest.class
+OrganizationModule\CreateOrganization.class
+ContactModule\CreateContactWithSupportDate.class
+OrganizationModule\OrgScenariosTest.class
+OrganizationModule\CreateOrgWithPhNo.class
+ContactModule\ContactScenariosTest.class
+OrganizationModule\CreateOrgWithIndustryAndType.class
