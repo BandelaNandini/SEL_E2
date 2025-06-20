@@ -30,6 +30,7 @@ public class ContactScenariosTest extends Baseclass {
 	@Test(groups = "smoke", retryAnalyzer = ListernersUtility.IRetryAnalyser.class)
 	public void createContTest() throws Exception {
 
+		//Create Contact Test
 		WebDriverUtility wutil = new WebDriverUtility();
 		// Generate the random num
 		JavaUtility jutil = new JavaUtility();
