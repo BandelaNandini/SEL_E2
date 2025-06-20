@@ -21,6 +21,8 @@ public class OrgScenariosTest extends Baseclass {
 
 	@Test(groups = "smoke",retryAnalyzer = ListernersUtility.IRetryAnalyser.class)
 	public void createOrg() throws IOException, InterruptedException {
+		
+		//Create Organization Test
 		WebDriverUtility wutil = new WebDriverUtility();
 
 		// Generate the random num
